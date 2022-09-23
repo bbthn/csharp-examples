@@ -8,6 +8,7 @@ namespace operatorler
         {
             Console.WriteLine("bb");
             Console.WriteLine("bb");
+            Console.WriteLine("bb");
 
         }
     }
