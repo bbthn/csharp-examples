@@ -7,6 +7,8 @@ namespace operatorler
         static void Main(string[] args)
         {
             Console.WriteLine("bb");
+            Console.WriteLine("bb");
+
         }
     }
 }
